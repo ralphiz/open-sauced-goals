@@ -1,37 +1,37 @@
 [
   {
     "full_name": "florinpop17/app-ideas",
-    "stargazers_count": 55364,
+    "stargazers_count": 55393,
     "open_issues_count": 279,
-    "forks_count": 7424
+    "forks_count": 7430
   },
   {
     "full_name": "TanStack/virtual",
-    "stargazers_count": 3060,
+    "stargazers_count": 3065,
     "open_issues_count": 13,
     "forks_count": 157
   },
   {
     "full_name": "uihaven/ui-buttons",
-    "stargazers_count": 1551,
+    "stargazers_count": 1559,
     "open_issues_count": 0,
     "forks_count": 107
   },
   {
     "full_name": "reach/reach-ui",
-    "stargazers_count": 5394,
-    "open_issues_count": 86,
+    "stargazers_count": 5395,
+    "open_issues_count": 87,
     "forks_count": 534
   },
   {
     "full_name": "remix-run/blues-stack",
-    "stargazers_count": 529,
+    "stargazers_count": 530,
     "open_issues_count": 5,
     "forks_count": 106
   },
   {
     "full_name": "mswjs/msw",
-    "stargazers_count": 9947,
+    "stargazers_count": 9956,
     "open_issues_count": 42,
     "forks_count": 300
   },
@@ -43,14 +43,14 @@
   },
   {
     "full_name": "primer/github-vscode-theme",
-    "stargazers_count": 1597,
+    "stargazers_count": 1598,
     "open_issues_count": 81,
     "forks_count": 152
   },
   {
     "full_name": "gohugoio/hugo",
-    "stargazers_count": 59986,
-    "open_issues_count": 621,
+    "stargazers_count": 60013,
+    "open_issues_count": 622,
     "forks_count": 6666
   },
   {
@@ -62,42 +62,42 @@
   {
     "full_name": "uikit/uikit",
     "stargazers_count": 17552,
-    "open_issues_count": 745,
-    "forks_count": 2327
+    "open_issues_count": 700,
+    "forks_count": 2328
   },
   {
     "full_name": "ansible/ansible-examples",
-    "stargazers_count": 10201,
+    "stargazers_count": 10204,
     "open_issues_count": 88,
-    "forks_count": 6203
+    "forks_count": 6205
   },
   {
     "full_name": "ansible/ansible",
-    "stargazers_count": 53719,
-    "open_issues_count": 1101,
-    "forks_count": 22097
+    "stargazers_count": 53732,
+    "open_issues_count": 1103,
+    "forks_count": 22104
   },
   {
     "full_name": "mrdoob/three.js",
-    "stargazers_count": 83427,
-    "open_issues_count": 495,
-    "forks_count": 32257
+    "stargazers_count": 83453,
+    "open_issues_count": 494,
+    "forks_count": 32269
   },
   {
     "full_name": "solana-labs/solana",
-    "stargazers_count": 9056,
-    "open_issues_count": 1047,
-    "forks_count": 2216
+    "stargazers_count": 9066,
+    "open_issues_count": 1056,
+    "forks_count": 2221
   },
   {
     "full_name": "rust-lang/rust-by-example",
-    "stargazers_count": 4861,
-    "open_issues_count": 70,
-    "forks_count": 976
+    "stargazers_count": 4868,
+    "open_issues_count": 71,
+    "forks_count": 978
   },
   {
     "full_name": "remix-run/remix",
-    "stargazers_count": 17858,
+    "stargazers_count": 17882,
     "open_issues_count": 316,
     "forks_count": 1402
   },
@@ -109,13 +109,13 @@
   },
   {
     "full_name": "tldraw/tldraw",
-    "stargazers_count": 8750,
-    "open_issues_count": 147,
-    "forks_count": 464
+    "stargazers_count": 8768,
+    "open_issues_count": 149,
+    "forks_count": 467
   },
   {
     "full_name": "dabit3/complete-guide-to-full-stack-solana-development",
-    "stargazers_count": 407,
+    "stargazers_count": 409,
     "open_issues_count": 12,
     "forks_count": 117
   },
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "stitchesjs/stitches",
-    "stargazers_count": 5843,
-    "open_issues_count": 86,
-    "forks_count": 173
+    "stargazers_count": 5852,
+    "open_issues_count": 87,
+    "forks_count": 174
   },
   {
     "full_name": "CristinaSolana/solana-developer-resources",
@@ -139,25 +139,25 @@
   },
   {
     "full_name": "nachtfunke/basic-pattern-repository",
-    "stargazers_count": 226,
+    "stargazers_count": 227,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "primer/css",
-    "stargazers_count": 11205,
+    "stargazers_count": 11210,
     "open_issues_count": 35,
-    "forks_count": 1063
+    "forks_count": 1064
   },
   {
     "full_name": "dinerojs/dinero.js",
     "stargazers_count": 5547,
-    "open_issues_count": 56,
-    "forks_count": 175
+    "open_issues_count": 57,
+    "forks_count": 177
   },
   {
     "full_name": "ijjk/notion-blog",
-    "stargazers_count": 2636,
+    "stargazers_count": 2637,
     "open_issues_count": 17,
     "forks_count": 335
   },
@@ -169,13 +169,13 @@
   },
   {
     "full_name": "react-hook-form/react-hook-form",
-    "stargazers_count": 29186,
-    "open_issues_count": 8,
-    "forks_count": 1407
+    "stargazers_count": 29206,
+    "open_issues_count": 10,
+    "forks_count": 1410
   },
   {
     "full_name": "tenacityteam/tenacity",
-    "stargazers_count": 7166,
+    "stargazers_count": 7168,
     "open_issues_count": 141,
     "forks_count": 288
   }
